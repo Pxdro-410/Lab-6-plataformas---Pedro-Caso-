@@ -9,3 +9,4 @@ Link del video:
 https://youtu.be/LGep3T8-vZs
 
 Link del repo:
+https://github.com/Pxdro-410/Lab-6-plataformas---Pedro-Caso-/tree/Main
